@@ -1,0 +1,15 @@
+********In line comments
+
+    var a = 2 // a is a variable here
+    
+    -------------These comments called inline comments
+    
+    
+********Multi line comments
+
+    /*a
+    b
+    v
+    c
+    f
+    i */ ----------------These are multi line comments 
