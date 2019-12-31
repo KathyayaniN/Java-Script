@@ -1,0 +1,23 @@
+1. Type
+
+    function subtract(x, y) {
+      return x - y;
+    }
+    function add(x,y) {
+      return x + y;
+    }
+    
+    export {subtract, add}
+    
+    Note: it will export both functions
+
+
+
+2. Type
+  
+    export default function subtract(x, y) {
+      return x - y;
+    }
+    
+    
+    Note : By default it will export the function subtract
