@@ -1,0 +1,2 @@
+ USE:   1. Promises are used to easily manages call back hell
+        2. It is the ideal choice to manage the asynchronous operations in simplest way
